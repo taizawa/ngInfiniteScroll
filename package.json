@@ -1,10 +1,10 @@
 {
   "name": "ng-infinite-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Infinite scrolling for AngularJS",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BinaryMuse/ngInfiniteScroll.git"
+    "url": "git://github.com/taizawa/ngInfiniteScroll.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/testacular start --single-run --browsers=PhantomJS ./test/testacular.conf.js"
